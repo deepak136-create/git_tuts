@@ -4,9 +4,8 @@
 API_URL="https://github.com/Dasharathi-karunapayonidi"
 
 # GitHub username and personal access token
-USERNAME=deepak136-create
-TOKEN=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
-
+USERNAME=$username
+TOKEN=$token
 # User and Repository information
 REPO_OWNER=$1
 REPO_NAME=$2
